@@ -29,3 +29,9 @@
 	border: thick #ea7186;
 	padding: 1px; 
 }
+h2 {
+	font-family: papyrus;
+	color: #ea7186;
+	font-style: oblique;
+	font-size: 16
+}
