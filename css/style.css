@@ -1,7 +1,7 @@
 .my-class {
-	color: lightgrey;
-	background-color: hotpink;
-	border: 2px dotted lightblue;
+	font-family: papyrus;
+	color: #ea7186;
+	background-color: #ebe8e7;
 	text-align: center;
 	padding: 0.5em;
 }
