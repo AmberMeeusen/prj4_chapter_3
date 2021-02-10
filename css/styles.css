@@ -26,8 +26,7 @@
 	font-family: garamond;
 	color: #7a77b9;
 	text-align: right;
-	border: thick #ea7186;
-	padding: 1px; 
+	border-bottom-style: 2px solid #7a77b9; 
 }
 h2 {
 	font-family: papyrus;
