@@ -3,5 +3,16 @@
 	color: #ea7186;
 	background-color: #ebe8e7;
 	text-align: center;
+	border-bottom: 2px dotted #7a77b9;
 	padding: 0.5em;
+}
+.subbocks {
+	font-family: garamond; 
+	color: #7a77b9;
+	text-align: right;
+	font-size: 5;
+}
+
+#background {
+	background-color: #ebe8e7;
 }
