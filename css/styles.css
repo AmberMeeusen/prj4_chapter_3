@@ -28,10 +28,12 @@
 	color: #7a77b9;
 	text-align: right;
 	border: 2px dotted #7a77b9;
-	padding-left: 300px;
+	margin-left: 300px;
+	margin-right: 300px;
 }
 h2 {
 	font-family: papyrus;
 	color: #ea7186;
 	font-style: oblique;
 	font-size: 16px;
+}
