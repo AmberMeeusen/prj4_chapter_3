@@ -31,6 +31,10 @@
 	font-size: 20px;
 }
 .my-container {
+	font-family: garamond;
+	color: #7a77b9;
+	text-align: center;
+	font-size: 20px;
 	background-image: url("images/whiteflower.png");
 	border: 2px dotted #7a77b9;
 	margin-left: 200px;
@@ -61,12 +65,4 @@ h2 {
 	margin-left: 200px;
 	margin-right: 200px;
 	font-size: 20px;
-}
-p1 { 
-	font-family: garamond;
-	color: #7a77b9;
-	text-align: center;
-	font-size: 20px;
-	margin-left: 100px;
-	margin-right: 100px;
 }
