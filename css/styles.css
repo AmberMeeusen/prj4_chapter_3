@@ -23,7 +23,7 @@
 	background-color: #ebe8e7;
 }
 .first {
-	text-align: left;
+	text-align: center;
 	font-family: garamond;
 	color: #7a77b9;
 	margin-left: 200px;
@@ -34,11 +34,13 @@
 	background-image: url("images/whiteflower.png");
 	font-family: garamond;
 	color: #7a77b9;
-	text-align: right;
+	text-align: center;
 	border: 2px dotted #7a77b9;
 	margin-left: 200px;
 	margin-right: 200px;
 	font-size: 20px;
+	border-spacing: 50px 50px;
+	
 }
 h2 {
 	font-family: papyrus;
@@ -64,5 +66,5 @@ h2 {
 	color: #7a77b9;
 	margin-left: 200px;
 	margin-right: 200px;
-	font-size: 10px;
+	font-size: 20px;
 }
